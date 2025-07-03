@@ -8,7 +8,12 @@
                 {
                     "ID": "wrld_3f55a5ff-5fb5-4d81-8ae6-7a25b042ffb1",
                     "Name": "The Quiet She Left Behind",
-                    "Description": "ダミー"
+                    "Description": "After a long hush and slow restoration‚ the gates are open once more․"
+                },
+                                {
+                    "ID": "wrld_c0dff77f-e99a-4c58-a207-1dbc71abee68",
+                    "Name": "JT Tobacco Farm",
+                    "Description": "このワールドは日本の葉たばこ農地を再現しており日本の農村の生活に触れる体験をすることができます。"
                 }
             ]
         },
@@ -18,13 +23,97 @@
                 {
                     "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
                     "Name": "ダミー",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "MaterialSniperǃ shooting game",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
+                    "Description": "MaterialSniperǃ shooting game"
+                }
+            ]
+        },
+        {
+            "Category": "謎解き",
+            "Worlds": [
+                {
+                    "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
+                    "Name": "ダミー",
+                    "Description": "MaterialSniperǃ shooting game"
+                }
+            ]
+        },
+        {
+            "Category": "ホラー",
+            "Worlds": [
+                {
+                    "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
+                    "Name": "ダミー",
+                    "Description": "MaterialSniperǃ shooting game"
+                }
+            ]
+        },
+        {
+            "Category": "アバター",
+            "Worlds": [
+                {
+                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+                    "Name": "Avatar Museum 12",
+                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                }
+            ]
+        },
+                {
+            "Category": "チル",
+            "Worlds": [
+                {
+                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+                    "Name": "Avatar Museum 12",
+                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                }
+            ]
+        },
+                {
+            "Category": "景観",
+            "Worlds": [
+                {
+                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+                    "Name": "Avatar Museum 12",
+                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                }
+            ]
+        },
+                {
+            "Category": "春",
+            "Worlds": [
+                {
+                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+                    "Name": "Avatar Museum 12",
+                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                }
+            ]
+        },
+                {
+            "Category": "夏",
+            "Worlds": [
+                {
+                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+                    "Name": "Avatar Museum 12",
+                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                }
+            ]
+        },
+                {
+            "Category": "秋",
+            "Worlds": [
+                {
+                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+                    "Name": "Avatar Museum 12",
+                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                }
+            ]
+        },
+                {
+            "Category": "冬",
+            "Worlds": [
+                {
+                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+                    "Name": "Avatar Museum 12",
+                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
                 }
             ]
         }
