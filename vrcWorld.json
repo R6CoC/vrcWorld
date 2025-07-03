@@ -21,9 +21,59 @@
             "Category": "ゲーム",
             "Worlds": [
                 {
-                    "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
-                    "Name": "ダミー",
-                    "Description": "MaterialSniperǃ shooting game"
+                    "ID": "wrld_038969d5-1a77-43d9-a435-ad1e9bf12542",
+                    "Name": "おえかき探偵 -Drawing Detective-",
+                    "Description": "お題を選んで絵を描いて、何を描いているか当てようǃ プレイヤー人数 ˸ 2~16"
+                },
+                {
+                    "ID": "wrld_a79e6d51-f035-465e-97c3-2c1b29f6fc77",
+                    "Name": "生活記憶力 Kioku",
+                    "Description": "記憶を頼りにロゴなどの日常に潜むデザインをお絵描きするゲーム。"
+                },
+                {
+                    "ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
+                    "Name": "日本列島 1˸1 Real Scale Japan（OWML）（PC⁄Quest）",
+                    "Description": "1˸1リアルスケールの日本列島です。"
+                },
+                {
+                    "ID": "wrld_f7a25364-c6a5-4b12-af64-c67bd95ef960",
+                    "Name": "DrivingCity at Night",
+                    "Description": "本格的な夜のドライブが楽しめるワールド"
+                },
+                {
+                    "ID": "wrld_79c1b8e2-3d08-4b33-bff4-51353576c56a",
+                    "Name": "Toy Baseball Grand",
+                    "Description": "同時に7人バッティングが出来るおもちゃの野球場です。"
+                },
+                {
+                    "ID": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
+                    "Name": "Zombie Survival",
+                    "Description": "ゾンビだらけの荒廃した街で生き残りましょう。"
+                },
+                {
+                    "ID": "wrld_15125b57-83ec-45dc-a736-475d12e9c9a3",
+                    "Name": "VRCゲームセンター -VRCGameCenter",
+                    "Description": "Udonchipを使ったギミックやボウリングで遊ぶことができるゲームセンターです"
+                },
+                {
+                    "ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
+                    "Name": "CoinAmusement by UdonChips",
+                    "Description": "ワールド内通貨規格「UdonChips」に対応したギミックで遊べるワールドです。"
+                },
+                {
+                    "ID": "wrld_583bdc81-8db0-4288-9949-47fb85560466",
+                    "Name": "CitytoCrush",
+                    "Description": "キレイなローポリの街…なのだけど、ワールドのギミックで建物を破壊することができる。"
+                },
+                {
+                    "ID": "wrld_0ae33725-8c02-453e-966c-a6457ba8d003",
+                    "Name": "元彼の家 Ex’s house",
+                    "Description": "むかつく元彼の家 破壊したいですよね？"
+                },
+                {
+                    "ID": "wrld_e4faa824-019c-40e0-a996-1f327d942687",
+                    "Name": "神撃の刃 God of blade",
+                    "Description": "ストレス発散用のワールドです、"
                 }
             ]
         },
@@ -31,9 +81,9 @@
             "Category": "謎解き",
             "Worlds": [
                 {
-                    "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
-                    "Name": "ダミー",
-                    "Description": "MaterialSniperǃ shooting game"
+                    "ID": "wrld_16a115b9-53e9-4182-b90e-9d44005fe669",
+                    "Name": "脱出ゲーム「VEIL」",
+                    "Description": "全てが謎に包まれた脱出ゲーム、＂VEIL＂へようこそ。"
                 }
             ]
         },
@@ -41,9 +91,119 @@
             "Category": "ホラー",
             "Worlds": [
                 {
-                    "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
-                    "Name": "ダミー",
-                    "Description": "MaterialSniperǃ shooting game"
+                    "ID": "wrld_328c7a03-9d61-4249-a945-c8944ce2fee5",
+                    "Name": "小枠内館の謎",
+                    "Description": "怖くない！ホラーテイストなジョークワールドです。"
+                },
+                {
+                    "ID": "wrld_d15ae273-fc3f-4b2a-8bfa-69d8eda9e1bd",
+                    "Name": "マグロ旅館",
+                    "Description": "マグロが出てくるドッキリありのホラーワールド。"
+                },
+                {
+                    "ID": "wrld_fc25274b-5d31-436d-a6c5-95c17a568578",
+                    "Name": "Charcoal",
+                    "Description": "パズルワールドでジャンプスケアは無いけど、ホラーっぽい要素有。"
+                },
+                {
+                    "ID": "wrld_33e8c6e3-b68c-4188-a1c6-1c9bc8f28329",
+                    "Name": "さがして",
+                    "Description": "夕空の背中でけんかした 夜ごはんのカレーの香り 窓にうつるのは知らない灯り ひどくなじむ影はお似合いだね ずっとここにいられたらいいのに でもね、ほんとは"
+                },
+                {
+                    "ID": "wrld_b66c109c-a19f-4218-a7b6-305acc59cd84",
+                    "Name": "Q․T",
+                    "Description": "KAWAII IS JUSTICE"
+                },
+                {
+                    "ID": "wrld_2c4df0ee-b61d-415c-86b0-c16270d11c00",
+                    "Name": "F․E․A․R․S",
+                    "Description": "質問に回答して、ホラーへの耐性を調べる。という変わった感じのホラワ"
+                },
+                {
+                    "ID": "wrld_6bb80885-9077-4334-b8f5-9e19dd7e911e",
+                    "Name": "lonely-stay with me-",
+                    "Description": "クリア時間は約1時間です。一人または二人推奨です。ルート分岐があります。"
+                },
+                {
+                    "ID": "wrld_599a02f0-9357-437c-8872-9ede78238f41",
+                    "Name": "Adi Mente",
+                    "Description": "クラシックな部屋と蓄音機の音楽に乗せたとある人物の人生最後の走馬灯"
+                },
+                {
+                    "ID": "wrld_54d74b4d-a582-4306-9024-94da717659bc",
+                    "Name": "Sad Amelia",
+                    "Description": "個人的にVRChat史上最狂格のホラーワールド"
+                },
+                {
+                    "ID": "wrld_f844b6bf-a5e9-4816-98d1-9b9d8821f9e7",
+                    "Name": "Alone in the Silence",
+                    "Description": "「決して、走ってはならない。」"
+                },
+                {
+                    "ID": "wrld_cd0e1560-6a14-4244-be5e-f119f3064134",
+                    "Name": "Escape from Monday ～無限通勤編～",
+                    "Description": "繰り返される通勤の波、幾度も背後に迫る＂月曜日＂、避けることのできない労働地獄․․․あなたはこの悪夢から脱出できるか？"
+                },
+                {
+                    "ID": "wrld_cf57fcb0-e7b3-4f9e-b1e6-02c612ac7a6d",
+                    "Name": "Someone’s birthday",
+                    "Description": "short Horror Game"
+                },
+                {
+                    "ID": "wrld_35101546-5c0f-432e-90dc-52674b734f3b",
+                    "Name": "帰り道 ～ A Shadow Behind You․",
+                    "Description": "不審者目撃情報：2025-04-22 エンディング2パターン。推奨人数1〜3人、想定クリア時間15分程。"
+                },
+                {
+                    "ID": "wrld_2da2b20d-f43b-4753-8e3c-f8e9665cb6e4",
+                    "Name": "Terminal Echoes",
+                    "Description": "BackRooms, SCP, 探索, 逃げる/鬼ごっこ要素, 長時間プレイ"
+                },
+                {
+                    "ID": "wrld_bef9eccb-677f-4431-8dd2-cfd0467105f6",
+                    "Name": "ThrillSeeker",
+                    "Description": "刑務所, 長時間プレイ"
+                },
+                {
+                    "ID": "wrld_24705cd6-45eb-4703-b228-75c0ca450276",
+                    "Name": "異聞奇譚 – 異仰 – Atypicality Faith",
+                    "Description": "不気味な化け物のいる村と家の中を探索するホラワ"
+                },
+                {
+                    "ID": "wrld_6f1cb4fb-d8ff-4d2b-8bd7-de2b977ecea3",
+                    "Name": "電撃VRCホラワ調査隊 -The Experience-",
+                    "Description": "YouTubeにて放送中のホラー番組「電撃VRCホラワ調査隊」のホラーワールド探索を実際に体感できるアトラクションです。"
+                },
+                {
+                    "ID": "wrld_2fd2b100-9953-4b16-bbfb-f08e3297a080",
+                    "Name": "Kimodameshi 肝試し 廃神社編",
+                    "Description": "山の奥にある廃神社へ行きお札を取ってくるだけのワールドです。"
+                },
+                {
+                    "ID": "wrld_9fdb4791-43c9-488f-aa17-19d1316c3db1",
+                    "Name": "納涼！たのしい肝試し",
+                    "Description": "夏の終わりに肝試しはいかが？想定プレイ時間˸ 10~15分。"
+                },
+                {
+                    "ID": "wrld_14b06a59-f43b-40b2-9083-718e1ed4c1cf",
+                    "Name": "Playland Escapeǃ",
+                    "Description": "両親はあなたを幸せな保育園に預けます、暖かくて怖い脱出ゲーム"
+                },
+                {
+                    "ID": "wrld_cdfec93b-2fb0-4962-bc12-868c7fd45fa3",
+                    "Name": "magabanashi_VR［school］",
+                    "Description": "このワールドは猟奇ユニット「フィアー飯」が語る青空怪談「禍話」の一部をVR上で聞けるだけのものです。"
+                },
+                {
+                    "ID": "wrld_615948c0-919b-4370-827b-49cec5b359a4",
+                    "Name": "DOLLS～人形屋敷の少女～",
+                    "Description": "【ワールドノベル ／お化け屋敷】"
+                },
+                {
+                    "ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
+                    "Name": "Milya［paradox］",
+                    "Description": "耽美で退廃的、そして不可解で醜悪な空間を探索するサイコロジカルホラーワールドです。"
                 }
             ]
         },
@@ -54,11 +214,21 @@
                     "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
                     "Name": "Avatar Museum 12",
                     "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                },
+                {
+                    "ID": "wrld_7d7ad7fb-723b-4ad3-bc18-b566f795674a",
+                    "Name": "ひゅうがなつみかんAvatarWorld",
+                    "Description": "ひゅうがなつみかんのアバターワールドです"
+                },
+                {
+                    "ID": "wrld_c5740a26-595c-4d7b-abaa-1ff51d3c6d2d",
+                    "Name": "男性アバター試着ワールド MEN’S AVATAR PEDESTALS",
+                    "Description": "男性アバターのみを集めた常設の試着ペデスタルワールドです。"
                 }
             ]
         },
                 {
-            "Category": "チル",
+            "Category": "ルーム",
             "Worlds": [
                 {
                     "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
@@ -71,9 +241,79 @@
             "Category": "景観",
             "Worlds": [
                 {
-                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
-                    "Name": "Avatar Museum 12",
-                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                    "ID": "wrld_de53549a-20cf-4c6f-abea-dcda197e1e16",
+                    "Name": "ORGANISM",
+                    "Description": "広く、大きく、けれど繊細な、とても綺麗なのだけれど、どこか不気味さを感じるワールド。"
+                },
+                {
+                    "ID": "wrld_29917391-8f96-4fd3-b65b-cf4d2f125160",
+                    "Name": "凍空の夜想曲",
+                    "Description": "白のカーネーションの花言葉は「尊敬」「私の愛情は生きている」。"
+                },
+                {
+                    "ID": "wrld_be87335f-65b0-448f-bdd0-a91b40fc41c9",
+                    "Name": "星屑ノ街-City of stardust-",
+                    "Description": "その街はまさに星屑でできているかのようだった"
+                },
+                {
+                    "ID": "wrld_6ffae0ba-e0c2-46b9-97e9-8b713fc46db0",
+                    "Name": "海底ノ図書室",
+                    "Description": "海中の図書館はもう何年も経ち、人々の目の前に再び現れた海中の図書館です。"
+                },
+                {
+                    "ID": "wrld_ad12ab9a-6cf1-42af-b9aa-b6fd4973e290",
+                    "Name": "Ricocheive",
+                    "Description": "まるで夢の中を散歩しているかのような雰囲気のワールド"
+                },
+                {
+                    "ID": "wrld_2694a3d2-4656-4f15-8cf3-275dbff6981d",
+                    "Name": "遠郷の冬めく処 -Nostalgic Winter Riverside-",
+                    "Description": "川沿いの冬の温泉！！足湯や樽風呂もあるぞ！！！みんな大好き旅館のあの空間も！！"
+                },
+                {
+                    "ID": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
+                    "Name": "Aquarius",
+                    "Description": "作り込みのすごい美麗なワールドを作る作者さんの水族館。"
+                },
+                {
+                    "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
+                    "Name": "Gion Street – 祇園通り日本",
+                    "Description": "美しい彩りの華やかな祇園です。"
+                },
+                {
+                    "ID": "wrld_b8fc8271-eec0-4ec8-a37b-bcd576d54b95",
+                    "Name": "Green Field",
+                    "Description": "広い大地をグライダーで飛んだり、まったりと。声が非常に遠くまで届きます。"
+                },
+                {
+                    "ID": "wrld_42749608-7b80-41f4-b05c-f73064b3e7c1",
+                    "Name": "Forgotten shrine",
+                    "Description": "森の中の小さな祠と紫陽花と雨と鳥居と石段と…"
+                },
+                {
+                    "ID": "wrld_58ab4391-eb00-41fc-9a85-2082e84bb459",
+                    "Name": "ケセドの虚構の街-CHESED’s Fictional City-",
+                    "Description": "七色の街を背景にした半透明の建造物。"
+                },
+                {
+                    "ID": "wrld_6315e431-fd04-4d53-a4b6-f78f2ffe8573",
+                    "Name": "黄昏の雨が上がるまで – Twilight of a World",
+                    "Description": "黄昏時に雨が降り、舞い上がる瓦礫の群れ"
+                },
+                {
+                    "ID": "wrld_5fa056bb-065c-48f6-a985-e6d2a4c158b8",
+                    "Name": "OCHITEIKU-おちていく-",
+                    "Description": "おちていく、どこまでも。"
+                },
+                {
+                    "ID": "wrld_fe1ff62e-0b7d-4ddf-af48-9b95c3456f1e",
+                    "Name": "沈みゆく記憶-SinkingMemories-",
+                    "Description": "遠い日の記憶"
+                },
+                {
+                    "ID": "wrld_c4e61164-c854-42d3-a70c-17d0d68a141b",
+                    "Name": "Space Colony “Island-4”",
+                    "Description": "恒星間航行用の密閉型スペースコロニーです。"
                 }
             ]
         },
@@ -91,9 +331,44 @@
             "Category": "夏",
             "Worlds": [
                 {
-                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
-                    "Name": "Avatar Museum 12",
-                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                    "ID": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
+                    "Name": "nagisa no machi",
+                    "Description": "静かな海辺の町です。"
+                },
+                {
+                    "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
+                    "Name": "夏宙の休息地 -Summer Starrysky Rest-",
+                    "Description": "たまやーǃ かぎやーǃ ねこやーǃ"
+                },
+                {
+                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
+                    "Name": "PROJECT: SUMMER FLARE",
+                    "Description": "Break the Summer․"
+                },
+                {
+                    "ID": "wrld_71ba0b57-c07c-4daa-af77-52ef7beaff34",
+                    "Name": "七夕の茶屋はるどり",
+                    "Description": "七夕仕様の茶屋はるどり。笹と天灯があります。お団子と和菓子が食べられる山に囲まれた茶屋です。"
+                },
+                {
+                    "ID": "wrld_1b43b12a-332c-4f7a-b64a-3f553a6d5d90",
+                    "Name": "halation",
+                    "Description": "夏の海には人を魅了する何かがある"
+                },
+                {
+                    "ID": "wrld_4f465098-6acb-4840-b6b5-51faef5e6407",
+                    "Name": "夏祭り ~ Charlotte’s Summer Festival",
+                    "Description": "蛍が舞う夏の夜。迷いの竹林を抜けて、満月に至る参道は、年に一度の夏祭り。人も妖もいらっしゃいませ。"
+                },
+                {
+                    "ID": "wrld_085abcd7-ce0a-42e2-9496-085b30648ebf",
+                    "Name": "天の川星座巡りツアー ⁄ Stargazing Trip into the Milky Way",
+                    "Description": "星座を巡る2分間のパーティクルライブ"
+                },
+                {
+                    "ID": "wrld_eaf4b0cc-84c4-4567-aec3-50dc59d7953e",
+                    "Name": "海に至る道-Road to the sea",
+                    "Description": "海に続く道を再構築。海に行けるようになりました。"
                 }
             ]
         },
@@ -101,9 +376,14 @@
             "Category": "秋",
             "Worlds": [
                 {
-                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
-                    "Name": "Avatar Museum 12",
-                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                    "ID": "wrld_779b00af-789a-4254-aa67-66134d488cbc",
+                    "Name": "えれじいほーむ ～秋～",
+                    "Description": "紅葉に囲まれた家です。焼き芋したりお友達とおしゃべりしたり、のんびりしていってもらえると嬉しいです。"
+                },
+                {
+                    "ID": "wrld_bec4eb25-af42-4542-9872-84ec31b06c2c",
+                    "Name": "映えキャン-Autumn camping-",
+                    "Description": "映え重視キャンピン"
                 }
             ]
         },
