@@ -3,27 +3,21 @@
     "ShowPrivateWorld": true,
     "Categorys": [
         {
-            "Category": "ゲーム",
+            "Category": "Discord",
             "Worlds": [
                 {
-                    "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
-                    "Name": "MaterialSniperǃ",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "MaterialSniperǃ shooting game",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
+                    "ID": "wrld_3f55a5ff-5fb5-4d81-8ae6-7a25b042ffb1",
+                    "Name": "The Quiet She Left Behind",
+                    "Description": "ダミー"
                 }
             ]
         },
                 {
-            "Category": "謎解き",
+            "Category": "ゲーム",
             "Worlds": [
                 {
                     "ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
-                    "Name": "MaterialSniperǃ",
+                    "Name": "ダミー",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "MaterialSniperǃ shooting game",
