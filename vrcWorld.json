@@ -14,6 +14,41 @@
                     "ID": "wrld_c0dff77f-e99a-4c58-a207-1dbc71abee68",
                     "Name": "JT Tobacco Farm",
                     "Description": "このワールドは日本の葉たばこ農地を再現しており日本の農村の生活に触れる体験をすることができます。"
+                },
+                {
+                    "ID": "wrld_13f15851-5366-4365-aca9-6f134b263cff",
+                    "Name": "Yayoi summer rust",
+                    "Description": "水没した都市が美しいワールド"
+                },                
+                {
+                    "ID": "wrld_9ceebde5-fadc-4279-9e4f-fb2d0db80e0c",
+                    "Name": "まろの港町 -Port town-［Night］",
+                    "Description": "夏、海、お盆、花火、音声ライブ配信可（iwaSync‚ TopazChat）。1時間ごとに花火の量が「小・中・特大」の3段階でランダムに変化します。"
+                },                
+                {
+                    "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
+                    "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-",
+                    "Description": "QvPenとIwasyncは器具庫にあるぞ！！"
+                },                
+                {
+                    "ID": "wrld_56b7c680-1614-4459-afbc-8fa573bd49a0",
+                    "Name": "ROSERED ［ Indoor Pool ］",
+                    "Description": "屋上にある屋内プール。 撮影や集会にどうぞ。"
+                },                
+                {
+                    "ID": "wrld_a160ce14-ef91-451b-9255-c908cdd1dad2",
+                    "Name": "［ParticleLive］TEMPLATE",
+                    "Description": "本ワールドは星街すいせいの楽曲「TEMPLATE」の ファンメイドパーティクルライブワールドです。 "
+                },                
+                {
+                    "ID": "wrld_38dc7730-bc33-47cc-bf1a-2279ad12f2d6",
+                    "Name": "-電遊酒場- Neon Nights",
+                    "Description": "ダーツやビリヤード・クレーンゲームなど10種類以上のゲームやお酒を作って楽しむことができるワールドです。 "
+                },
+                {
+                    "ID": "wrld_c182398b-2539-4349-ab03-1fa720509df0",
+                    "Name": "脱出ゲーム Platform",
+                    "Description": "『偶然』に導かれたあなたは、罠の仕組まれたデスゲームから脱出できるのか？"
                 }
             ]
         },
