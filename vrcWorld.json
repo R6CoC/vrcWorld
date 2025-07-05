@@ -109,6 +109,16 @@
                     "ID": "wrld_e4faa824-019c-40e0-a996-1f327d942687",
                     "Name": "神撃の刃 God of blade",
                     "Description": "ストレス発散用のワールドです、"
+                },
+                {
+                    "ID": "wrld_4a742c99-cced-4137-b717-e8c583b7563e",
+                    "Name": "演劇・RPワードロシアン",
+                    "Description": "演劇エチュードやRPの練習をするためのワールドです。お題ワードがランダムで引けます！"
+                },
+                {
+                    "ID": "wrld_9dab45f5-ed75-4a7b-ba59-6830c1fc940b",
+                    "Name": "あなたは多数派？少数派？",
+                    "Description": "目の前にあるのは、押すと＜うれしい事＞と＜いやな事＞が起こる不思議なボタン。 あなたなら、押しますか?押しませんか? "
                 }
             ]
         },
@@ -266,9 +276,9 @@
             "Category": "ルーム",
             "Worlds": [
                 {
-                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
-                    "Name": "Avatar Museum 12",
-                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                    "ID": "wrld_12bb4794-6418-4caa-9d66-60e56a153ead",
+                    "Name": "木漏れ日の部屋",
+                    "Description": "広くはないけど狭くはない、木漏れ日の温かみのあるお部屋です。"
                 }
             ]
         },
@@ -359,6 +369,11 @@
                     "ID": "wrld_5bd2a824-75c0-4b41-bfe8-ca5b02809e91",
                     "Name": "あの春を忘れない",
                     "Description": "最初は冬の景色ですが、テーブル上の光る本を使うと“春”の演出に切り替わります。本棚の本を使えば再び“冬”に戻せる、季節チェンジ機能付きの季節感あふれるワールドです。"
+                },
+                {
+                    "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
+                    "Name": "春空の休息地 -BloomingSky Rest-",
+                    "Description": "はるだーǃ さくらだーǃ ねこだーǃ"
                 }
             ]
         },
@@ -426,9 +441,59 @@
             "Category": "冬",
             "Worlds": [
                 {
-                    "ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
-                    "Name": "Avatar Museum 12",
-                    "Description": "AvatarMuseum12 アバターとポスターだけを展示するシンプルな展示会です。"
+                    "ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
+                    "Name": "雪夢島 -Snow Reverie Island-",
+                    "Description": "ゆきやこんこ"
+                }
+            ]
+        },
+                {
+            "Category": "便利ワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
+                    "Name": "Avatar Testing Chamber",
+                    "Description": "自分のアバターのクローンを眺めることができる。"
+                },
+                {
+                    "ID": "wrld_2bf4858b-6a88-406c-b7e0-543927219571",
+                    "Name": "放置箱 -Just AFK-＂AQUA＂",
+                    "Description": "放置箱＂AQUA＂は、東京大島国際軌道エレベーターの静止衛星軌道滞在施設に設けられた、パンアメリカン航空運営の人工重力居住区画の愛称です。デスクトップ作業中の交流や書き置きにどうぞ。"
+                }
+            ]
+        },
+                {
+            "Category": "イチオシワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_edf123e5-248f-4e34-a7a3-63eecc23760c",
+                    "Name": "喫煙者のオアシス",
+                    "Description": "喫煙者にとっての都会のオアシス․․․ 喫煙所のある屋上です。"
+                }
+            ]
+        },
+                {
+            "Category": "みんなのホームワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521",
+                    "Name": "BOOTH Room",
+                    "Description": "乃愛さんのホームワールド"
+                },
+                {
+                    "ID": "wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7",
+                    "Name": "SuRroom",
+                    "Description": "ぐれさんのホームワールド"
+                }
+            ]
+        },
+                    {
+            "Category": "センシティブ",
+            "Worlds": [
+                {
+                    "ID": "wrld_fdf60990-60f7-43a9-9a8c-84f0f8051877",
+                    "Name": "WIP Furry Prison",
+                    "Description": "A work in progress prison themed spicy hangout world․"
                 }
             ]
         }
